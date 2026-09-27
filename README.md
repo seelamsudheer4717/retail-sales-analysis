@@ -1,5 +1,5 @@
 # Retail Sales Analysis
-
+![Retail Sales Analysis dashboard](dashboard.png)
 An end-to-end portfolio project using Python, SQLite, and Streamlit to explore completed sales in the UCI Online Retail dataset.
 
 ## Business questions
