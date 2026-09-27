@@ -40,8 +40,4 @@ The cleaning script creates `output/retail.db` and `output/cleaning_summary.json
 - **Highest sales month:** November 2011, with £1,503,866.78 in sales value across 2,769 orders.
 - **Highest-value named product:** REGENCY CAKESTAND 3 TIER, with £174,156.54 in sales value.
 - **Observation:** Sales value rose in September, October, and November 2011. December 2011 covers only part of the month.
-## Suggested resume entry (after completion)
 
-**Retail Sales Analysis** — Python, SQL, Streamlit · [GitHub link]
-
-Cleaned transaction data and built a SQLite analysis pipeline and interactive dashboard to examine monthly sales, top products, and customer purchasing patterns. Add a measured result after validating the full dataset.
